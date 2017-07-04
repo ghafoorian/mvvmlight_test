@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="XamarinDeveloper.XamarinDeveloper" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="XamarinDeveloper" android:icon="@mipmap/ic_launcher" android:theme="@style/Theme.MyApp" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDeveloper.Classes.App" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="XamarinDeveloper" android:name="md571805def0ac6569b9f010e16d963d17f.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="MenQuestions" android:name="md5f117ca3e00fa3abeb748dc0882b3114f.MenQuestionsActivity" />
+    <activity android:label="UserInformation" android:name="md5f117ca3e00fa3abeb748dc0882b3114f.UserInformationActivity" />
+    <activity android:label="WomenQuestion" android:name="md5f117ca3e00fa3abeb748dc0882b3114f.WomenQuestion" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="XamarinDeveloper.XamarinDeveloper.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.XamarinDeveloper.XamarinDeveloper" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
+</manifest>

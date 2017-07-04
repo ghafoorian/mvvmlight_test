@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="XamarinDeveloper.XamarinDeveloper" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="16" />
+	<application android:label="XamarinDeveloper" android:icon="@mipmap/ic_launcher" android:theme="@style/Theme.MyApp" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinDeveloper.Classes.App"></application>
+</manifest>
