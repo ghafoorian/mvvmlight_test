@@ -1,7 +1,6 @@
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\XamarinDeveloper.dll
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.dll
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Extras.dll
-D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.AndroidSupport.dll
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.dll
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\Microsoft.Practices.ServiceLocation.dll
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll

@@ -76,7 +76,6 @@ D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\bin\Release\System.Xml.Linq.dll.mdb
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.dll.mdb
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
-D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.AndroidSupport.dll.mdb
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\Java.Interop.dll.mdb
 D:\project\Visual Studio 2015\Projects\Xamarin\XamarinDeveloper\XamarinDeveloper\obj\Release\android\assets\Microsoft.CSharp.dll.mdb

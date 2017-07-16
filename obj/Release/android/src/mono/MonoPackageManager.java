@@ -101,7 +101,6 @@ class MonoPackageManager_Resources {
 		"XamarinDeveloper.dll",
 		"GalaSoft.MvvmLight.dll",
 		"GalaSoft.MvvmLight.Extras.dll",
-		"GalaSoft.MvvmLight.Platform.AndroidSupport.dll",
 		"GalaSoft.MvvmLight.Platform.dll",
 		"Microsoft.Practices.ServiceLocation.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
